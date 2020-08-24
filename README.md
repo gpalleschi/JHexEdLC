@@ -12,8 +12,8 @@ Parameters `<...>` are mandatory
 
 **`<Input File>`**               : Input File 
 **`[-i]`**                       : Insert Modality *(specify -b parameter and -v for the value)*  
-**`[-u]`**                       : Update Modality *(specify both -d and -e parameters and -v for value)*   
-**`[-d]`**                       : Delete Modality *(specify both -d and -e parameters)*    
+**`[-u]`**                       : Update Modality *(specify both -b and -e parameters and -v for value)*   
+**`[-d]`**                       : Delete Modality *(specify both -b and -e parameters)*    
 **`[-b<offset start>]`**         : Offset from  
 **`[-e<offset end>]`**           : Offset to  
 **`[-v<hexadecimal value>]`**    : Hexadecimal value used in modality UPDATE and INSERT    
